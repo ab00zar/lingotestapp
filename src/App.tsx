@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <div>
-        count is ${count}
+        count is {count}
         </div>
       <div>
         <a href="https://ton.org/dev" target="_blank">
