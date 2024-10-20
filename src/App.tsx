@@ -12,6 +12,9 @@ function App() {
   return (
     <>
       <div>
+        count is ${count}
+        </div>
+      <div>
         <a href="https://ton.org/dev" target="_blank">
           <img src={twaLogo} className="logo" alt="TWA logo" />
         </a>
